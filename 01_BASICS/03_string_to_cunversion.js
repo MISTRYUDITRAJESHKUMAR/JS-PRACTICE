@@ -127,3 +127,41 @@
 // else {
 //     console.log("this is a int");
 // }
+
+
+
+
+
+// ==============operation================
+
+// let val = 3
+// let nagVal = -val;
+// console.log(nagVal);
+
+
+// console.log(2+2);
+// console.log(2/2);
+// console.log(2**2);
+// console.log(2-2);
+// console.log(10%3);
+
+// let str1 = 'udit'
+// let str2 = ' mistry'
+// let strf = str1 + str2
+// console.log(strf)
+
+
+// console.log('1' + 4);
+// console.log(1 + "4");
+// console.log(1 + 4 + "3");
+// console.log("1" + 4 + 3);
+
+// console.log(+true);
+// console.log(+"");
+
+// let game = 100
+// game++
+// console.log(game);
+
+
+
