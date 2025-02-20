@@ -168,3 +168,99 @@
 // const array = [1,2] 
 // array[0] = 4
 // console.log(array);
+
+// 8)
+// Shadowing:
+
+// Question: Write a code snippet that demonstrates variable shadowing with let
+
+
+// let nameu = "outer"
+// {
+//     let nameu = "inner"
+//     console.log(nameu);
+// }
+// console.log(nameu);
+
+
+// var a = 1;
+// {
+//     var a = 2;
+//     console.log(a);
+// }
+// console.log(a);
+
+
+// const b = 4;
+// {
+//     const b = 3;
+//     console.log(b);
+// }
+// console.log(b);
+
+
+
+
+
+// 9)
+// Global Object:
+
+// Question: Declare a variable using var in the global scope and check if it becomes a property of the global object.
+
+// Answer:
+
+// var global = "udit"
+// console.log(window.global);
+
+// let udit = "mistry"
+// console.log(window.udit);
+
+
+
+
+// 10)
+// Question: Write a code snippet that demonstrates the difference in behavior of var and let in a for loop.
+// Answer:
+
+
+// for (let i = 0; i < 4; i++) {
+//    console.log(i);
+// }
+
+// for (var i = 0; i < 4; i++) {
+//     setTimeout(() => {
+//         console.log(i);
+//     }, 3000);
+// }
+
+
+// 11)
+// function test() {
+//     const x = 1;
+//     if (true) {
+//         const x = 2;
+//         console.log(x);
+//     }
+//     console.log(x);
+// }
+// test()
+
+
+// const myobj = {
+//     Name: {
+//         fname: "mistry",
+//         mname: "udit",
+//         lname: "raeshkumar"
+//     }
+// }
+// myobj.Name.lname = "rajeshkumar"
+// console.log(myobj.Name.lname);
+
+// // myobj.Name.toString()
+// console.log(myobj);
+
+
+// 12)
+// const arr = [[1,3],[3,3]]
+// arr[1][1] = 2
+// console.log(arr[0][0]);
