@@ -1,0 +1,10 @@
+<!-- What is the difference between stack and heap memory in JavaScript?
+How are primitive data types stored in memory?
+How are reference data types stored in memory?
+What happens when you assign a primitive value to a new variable?
+What happens when you assign an object to a new variable?
+Why does changing a property of an object affect all references to that object?
+Can you explain the concept of garbage collection in the context of heap memory?
+How does the JavaScript engine manage memory allocation for variables and objects?
+What are some common memory management issues in JavaScript, and how can they be avoided?
+How does the call stack work in JavaScript, and what role does it play in function execution? -->
