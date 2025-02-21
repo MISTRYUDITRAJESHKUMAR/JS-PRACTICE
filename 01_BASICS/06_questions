@@ -1,8 +1,8 @@
-__proto__
-charAt
-indexOf
-substring
-slice
-TRIM
-replese
-includes
+__proto__ NO
+charAt    YES
+indexOf   YES
+substring  YES
+slice  YES
+TRIM  YES
+replese  YES
+includes YES
