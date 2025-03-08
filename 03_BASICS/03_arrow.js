@@ -51,3 +51,31 @@
 
 // const muname = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 // array.forEach(()=>{});
+
+
+
+// // q1
+// const udit = (a, b) => a + b
+
+
+
+// // q2
+// const uddit = (a, b) => a * b
+// console.log(uddit(5, 8));
+
+// // q3
+// const objecting = () => ({name:'udit'})
+// console.log(objecting());
+
+
+// q4
+
+
+const udit = {
+    Name : 'udit',
+    values : () => {
+        // return this.Name
+    }
+    // return this.Name
+}
+console.log(udit.values());
