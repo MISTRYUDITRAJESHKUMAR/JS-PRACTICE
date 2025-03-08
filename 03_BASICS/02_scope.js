@@ -103,15 +103,15 @@
 
 
 // ++++intresting++++ 
-console.log(addone(2));
-function addone(num) {
-    return num + 1
+// console.log(addone(2));
+// function addone(num) {
+//     return num + 1
     // console.log(num);
-}
+// }
 
 
-console.log(addtwo(655));
-const addtwo = function (num) {
-    return num + 2
+// console.log(addtwo(655));
+// const addtwo = function (num) {
+//     return num + 2
     // console.log(num);
-}
+// }
