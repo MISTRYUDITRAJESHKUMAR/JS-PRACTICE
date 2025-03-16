@@ -22,4 +22,52 @@
 // } while (score < name.length);
 
 
+// for off 
 
+// ["","",""]
+// [{},{},{}]
+
+// const arr = [1, 2, 3, 4, 5]
+
+// for (const i of arr) {
+//     console.log(i);
+    
+// }
+
+const greetings = "hello WORLD"
+// for (const greet of greetings) {
+//     if (greet === " ") {
+//         continue;
+//     }
+//     console.log(`name is : ${greet}`);
+// }
+
+
+//  maps
+
+const map = new Map()
+map.set('IN','INDIA')
+map.set('US','UNITED STATES')
+map.set('FR','FRANCE')
+
+
+// console.log(map);
+
+
+
+// for (const [key,value] of map) {
+//     console.log(key , ':-' , value);
+// }
+
+
+
+// const myobj =  {
+//     'game1':"bgmi",
+//     'game2':"mi",
+//     'game3':"bs",
+// }
+
+// for (const [games,value] of myobj) {
+//     console.log(games,value);
+    
+// }
